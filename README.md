@@ -4,6 +4,6 @@
 Hi, I'm Donghyun Won, a Computer Engineering Student who likes to make games and web applications.
 
 - :video_game: Unity Game Development
-- :books: I’m currently digging in Javascript, ReactJS, Node.js.
+- :books: I’m currently digging in Sass, Javascript, ReactJS, Node.js etc, Frontend Stacks.
 - :computer: Techs: <img height="30" src="https://github.com/wonAdam/wonAdam/blob/master/javascript.png?raw=true">  <img height="30" src="https://github.com/wonAdam/wonAdam/blob/master/node.png?raw=true">  <img height="30" src="https://github.com/wonAdam/wonAdam/blob/master/react2.png?raw=true">  <img height="30" src="https://github.com/wonAdam/wonAdam/blob/master/unity2.png?raw=true"> 
 - :sunglasses: Keep Learning from Everything
