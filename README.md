@@ -4,7 +4,7 @@
 Hi, I'm Donghyun Won, a Computer Engineering Student who likes to make games and web applications.
 
 - :video_game: Unity Client Game Development
-- :books: I’m currently digging in Game Server & Game Client : Unity & Unreal & OpenGL & C# Socket Server!
+- :books: I’m currently digging in Game Server & Game Client(Unity & Unreal) & OpenGL & C# Socket Server!
 - :sunglasses: Keep Learning from Everything
 
 
