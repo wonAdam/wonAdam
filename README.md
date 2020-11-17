@@ -1,11 +1,11 @@
 ## 안녕하세요. 👋
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ehdgus5500@gmail.com)
 
-Hi, I'm Donghyun Won, a Computer Engineering Student who likes to make games and web applications.
+Hi, I'm Donghyun Won, a Computer Engineering Student who likes to make games.
 
 - :video_game: Unity Client Game Development
 - :books: I’m currently going through the 6th semester in the Hongik Univ.
-- :sunglasses: Joyful About People Playing My Games
+- :sunglasses: 
 
 
 <h4>https://wonadam.github.io/CMD-Homepage/</h4>
