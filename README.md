@@ -4,7 +4,7 @@
 Hi, I'm Donghyun Won, a Computer Engineering Student who likes to make games.
 
 - :video_game: Unity Client Game Development
-- :books: I’m currently going through the 6th semester in the Hongik Univ.
+- :books: I’m currently going through the senior year in the Hongik Univ.
 - :sunglasses: 
 
 
