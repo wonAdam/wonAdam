@@ -5,7 +5,7 @@ Hi, I'm Donghyun Won, a Computer Engineering Student who likes making games.
 
 - :video_game: Unity Client Game Development
 - :books: I’m currently going through the senior year in the Hongik Univ.
-- :sunglasses: Working on Game AI, OpenGL, Shader etc.
+- :sunglasses: Working on Game AI, Design Pattern, Shader etc.
 - :books: Study Notes >> [Donghyun's Notion](https://www.notion.so/wondong "공부노트")
 
 <h4>https://wonadam.github.io/CMD-Homepage/</h4>
