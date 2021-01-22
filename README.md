@@ -13,8 +13,4 @@ Hi, I'm Donghyun Won, a Computer Engineering Student making Games.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonAdam&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Pandora (Click To Watch)
-
-[![Pandora Project](https://i9.ytimg.com/vi_webp/HYVr_4Oe1eo/mqdefault.webp?time=1611301200000&sqp=CNCCqoAG&rs=AOn4CLCMVWloCJH1BOoIgHorNGCdzuaI0g)](https://youtu.be/HYVr_4Oe1eo)
+[<img src="https://github.com/wonAdam/wonAdam/blob/master/20210122164639.png?raw=true" width="35%">](https://youtu.be/HYVr_4Oe1eo)
