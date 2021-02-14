@@ -6,7 +6,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games.
 - 🎮 Game Programmer
 - 🎓 I’m currently going through the Senior Year in the Hongik Univ.
 - 😎 Familiar with `Unity3D`, `C#` and `C++` !
-- 👊 Getting Know `Design Pattern`, `MFC Windows Programming`, `Game AI` and `Shader Programming` !
+- 👊 Getting Know `Design Pattern`, `C# Socket`, `MFC`, `Game AI` and `Shader` !
 - 📖 Study Notes >> [Donghyun's Notion](https://www.notion.so/wondong "공부노트")
 
 <h4>https://wonadam.github.io/CMD-Homepage/</h4>
