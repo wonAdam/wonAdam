@@ -2,8 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ehdgus5500@gmail.com)
 
 Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
-홍익대학교 컴퓨터공학과 16학번 원동현입니다. <br/>
-게임 클라이언트 프로그래머를 지망하고 있습니다. <br/>
 
 - 🎮 Game Programmer
 - 🎓 I’m currently going through the Senior Year in the Hongik Univ.
