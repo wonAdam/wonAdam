@@ -3,9 +3,11 @@
 
 Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
-- 🎮 Game Programmer
+- 🎮 Game Client Programmer
 
 - 🎓 I’m currently going through the Senior Year in the Hongik Univ.
+
+- 👨‍💼 2021 Summer Internship at NCSOFT.
 
 - 😎 Familiar with `Unity3D`, `C#` and `C++` !
 
