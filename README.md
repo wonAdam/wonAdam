@@ -1,5 +1,4 @@
 ## 안녕하세요! 👋
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ehdgus5500@gmail.com)
 
 Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
