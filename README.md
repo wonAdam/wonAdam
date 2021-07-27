@@ -16,7 +16,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
 ### Connect with me:
 <p align="center">
-	<a href="ehdgus5500@gmail.com" target="_blank">
+	<a href="mailto:ehdgus5500@gmail.com" target="_blank">
 		<img align="center" src="contacts/gmail.svg" alt="gmail" height="40" width="40" />
 	</a>
     <a href="https://www.linkedin.com/in/%EB%8F%99%ED%98%84-donghyun-%EC%9B%90-449841185/" target="_blank"">
