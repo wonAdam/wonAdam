@@ -41,6 +41,6 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 ### Technologies I am getting know each other with:
 <p align="center">
 		<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" />
-		<img align="center" src="tech/perforce.jpg" alt="Perforce" height="40" width="40" />
+		<img align="center" src="tech/perforce.png" alt="Perforce" height="40" width="40" />
 	</a>
 </p>
