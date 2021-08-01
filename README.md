@@ -10,7 +10,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
 - 😎 Familiar with `Unity3D`, `C#` and `C++` !
 
-- 👊 Getting Know `Unreal Engine 4`, `Design Pattern`, `OpenGL` and `Game AI` !
+- 👊 Getting to Know `Unreal Engine 4`, `Design Pattern`, `OpenGL` and `Game AI` !
 
 - 📖 Study Notes >> [Donghyun's Notion](https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8 "공부노트")
 
