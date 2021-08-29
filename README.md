@@ -34,6 +34,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 		<img align="center" src="tech/csharp.svg" alt="C#" height="40" width="40" />
     		<img align="center" src="tech/unity.png" alt="Unity" height="40" width="40" />
 		<img align="center" src="tech/Git_icon.svg" alt="Git" height="40" width="40" />
+		<img align="center" src="tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40" />
 	</a>
 </p>
 
@@ -42,6 +43,5 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 <p align="center">
 		<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" />
 		<img align="center" src="tech/perforce.png" alt="Perforce" height="40" width="40" />
-		<img align="center" src="tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40" />
 	</a>
 </p>
