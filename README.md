@@ -2,7 +2,7 @@
 
 Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
-- 🎮 Game Client Programmer, NEXON KOREA (Since 2021.10.25)
+- 🎮 Game Client Programmer, Nexon Korea (Since 2021.10.25)
 
 - 🎓 I’m currently going through the Senior Year in the Hongik Univ.
 
