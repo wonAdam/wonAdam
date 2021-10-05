@@ -33,8 +33,8 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 		<img align="center" src="tech/C++_Logo.svg" alt="Cpp" height="40" width="40" />
 		<img align="center" src="tech/csharp.svg" alt="C#" height="40" width="40" />
     		<img align="center" src="tech/unity.png" alt="Unity" height="40" width="40" />
-		<img align="center" src="tech/Git_icon.svg" alt="Git" height="40" width="40"/>
-		<img align="center" src="tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40"/>
+		<img align="center" src="https://raw.githubusercontent.com/wonAdam/wonAdam/9d6abf6d1ea3e5ceed0534ccd2928805e3c62213/tech/Git_icon.svg" alt="Git" height="40" width="40"/>
+		<img align="center" src="https://raw.githubusercontent.com/wonAdam/wonAdam/9d6abf6d1ea3e5ceed0534ccd2928805e3c62213/tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40"/>
 	</a>
 </p>
 
