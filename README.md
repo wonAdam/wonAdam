@@ -12,9 +12,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 
 - 👊 Getting to Know `Unreal Engine 4`, `Design Pattern`, `OpenGL` and `Game AI` !
 
-- 📖 Study Notes => 
-<a href="https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8">
-<img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF" href="https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8"/>
+- 📖 Study Notes => <a href="https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF" href="https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8"/>
 <a/>
 	
 ### Connect with me:
