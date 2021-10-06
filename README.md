@@ -33,6 +33,7 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 	<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=FFFFFF"/>
 	<img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
 	<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=FFFFFF"/>
+	<br/>
 	<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=FFFFFF"/>
 	<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF"/>
 	<img alt="VisualStudio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=FFFFFF"/>
