@@ -28,20 +28,18 @@ Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
 </p>
 
 
-### Technologies I am familiar with:
+### Tech Stack I'm Familiar With:
 <p align="center">
-	<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=FFFFFF"/>
-	<img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=Csharp&logoColor=FFFFFF"/>
-	<img alt="Unity" src ="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=FFFFFF"/>
-	<br/>
-	<img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=FFFFFF"/>
-	<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF"/>
-	<img alt="VisualStudio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=FFFFFF"/>
+	<img align="center" src="tech/C++_Logo.svg" alt="Cpp" height="40" width="40" />
+	<img align="center" src="tech/csharp.svg" alt="C#" height="40" width="40" />
+    	<img align="center" src="tech/unity.png" alt="Unity" height="40" width="40" />
+	<img align="center" src="tech/Git_icon.svg" alt="Git" height="40" width="40"/>
+	<img align="center" src="tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40"/>
 </p>
 
 
-### Technologies I am getting to know:
+### Tech Stack I'm Learning:
 <p align="center">
-	<img alt="UnrealEngine" src ="https://img.shields.io/badge/Unreal Engine-0E1128.svg?&style=for-the-badge&logo=Unreal Engine&logoColor=FFFFFF"/>
+	<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" />
 <!-- 		<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" /> -->
 </p>
