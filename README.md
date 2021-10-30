@@ -1,6 +1,6 @@
 ## 안녕하세요! 👋
 
-Hi, I'm Donghyun Won, a CS Student who makes Games. <br/>
+Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 🎮 Game Client Programmer, **Nexon Korea** (Since 2021. 10. 25)
 
