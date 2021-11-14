@@ -19,7 +19,7 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 	<a href="mailto:ehdgus5500@gmail.com" target="_blank">
 		<img alt="Gmail Contact" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=FFFFFF"/>
 	</a>
-    	<a href="https://www.linkedin.com/in/%EB%8F%99%ED%98%84-donghyun-won-%EC%9B%90-449841185/" target="_blank"">
+    	<a href="https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9B%90-449841185/" target="_blank"">
 		<img alt="LinkedIn Contact" src ="https://img.shields.io/badge/LinkedIm-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF"/>    
 	</a>
 	<a href="https://open.kakao.com/o/sdNMrCqd" target="_blank"">
