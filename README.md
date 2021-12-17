@@ -12,7 +12,7 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 👊 Getting to Know `Unreal Engine 4`, `Design Pattern` and `Game AI` !
 
-- 📖 Study Notes => <a href="https://www.notion.so/wondong/Hello-39e66d3c917a4545bef6a115ee9977f8"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> </a>
+- 📖 Study Notes => <a href="https://wonadam.oopy.io/"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> </a>
 	
 ### Connect with me:
 <p align="center">
