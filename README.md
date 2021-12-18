@@ -2,15 +2,15 @@
 
 Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
-- 🎮 Game Client Programmer, **Nexon Korea** (Since 2021. 10. 25)
+- 🎮 Game Client UE4 Programmer, **Nexon Korea** (Since 2021. 10. 25)
 
 - 🎓 I’m currently going through the Senior Year in the Hongik Univ.
 
 - 👨‍💼 2021 Summer Internship at NCSOFT.
 
-- 😎 Familiar with `Unity3D`, `C#` and `C++` !
+- 😎 Familiar with `Unreal Engine 4`, `Unity3D`, `C++` and `C#` !
 
-- 👊 Getting to Know `Unreal Engine 4`, `Design Pattern` and `Game AI` !
+- 👊 Getting to Know `Design Pattern` and `Game AI` !
 
 - 📖 Study Notes => <a href="https://wonadam.oopy.io/"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> </a>
 	
@@ -32,14 +32,16 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 <p align="center">
 	<img align="center" src="tech/C++_Logo.svg" alt="Cpp" height="40" width="40" />
 	<img align="center" src="tech/csharp.svg" alt="C#" height="40" width="40" />
+	<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" />
     	<img align="center" src="tech/unity.png" alt="Unity" height="40" width="40" />
 	<img align="center" src="tech/Git_icon.svg" alt="Git" height="40" width="40"/>
 	<img align="center" src="tech/plastic-scm.svg" alt="PlasticSCM" height="40" width="40"/>
-</p>
-
-
-### Tech Stack I'm Learning:
-<p align="center">
-	<img align="center" src="tech/unreal.png" alt="UE4" height="40" width="40" />
 	<img align="center" src="tech/perforce.png" alt="Perforce" height="40" width="40" />
 </p>
+
+<br>
+
+<!-- ### Tech Stack I'm Learning:
+<p align="center">
+
+</p> -->
