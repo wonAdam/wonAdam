@@ -4,7 +4,7 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 🎮 Game Client UE4 Programmer, **Nexon Korea** (Since 2021. 10. 25)
 
-- 🎓 I’m currently going through the Senior Year in the Hongik Univ.
+- 🎓 Computer Engineering, Hongik Univ.
 
 - 👨‍💼 2021 Summer Internship at NCSOFT.
 
