@@ -10,7 +10,7 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 😎 Familiar with `Unreal Engine 4`, `Unity3D`, `C++` and `C#` !
 
-- 👊 Getting to Know `Design Pattern` and `Game AI` !
+- 👊 Getting to Know `Design Pattern` and `Game Server` !
 
 - 📖 Study Notes => <a href="https://wonadam.oopy.io/"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> </a>
 	
