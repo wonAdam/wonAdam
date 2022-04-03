@@ -12,7 +12,7 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 👊 Getting to Know `Design Pattern` and `Game Server` !
 
-- Currently doing my Side Project with my friends using Plastic SCM.
+- ⚙ Currently doing my Side Project with my friends using Plastic SCM.
 
 - 📖 Study Notes => <a href="https://wonadam.oopy.io/"> <img alt="Notion 공부노트" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=FFFFFF"/> </a>
 	
