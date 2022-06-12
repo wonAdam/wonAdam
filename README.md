@@ -12,7 +12,9 @@ Hi, I'm Donghyun Won, a Newbie Game Client Programmer.
 
 - 👊 Getting to Know `Design Pattern` and `Game Server` !
 
-- 📖 [Blog](https://velog.io/@wondong)
+- 📖 <a href="https://velog.io/@wondong" target="_blank">
+		<img alt="Gmail Contact" src ="https://img.shields.io/static/v1?label=Blog&message=Velog&color=green"/>
+	</a> 
 	
 ### Connect with me:
 <p align="center">
